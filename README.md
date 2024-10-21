@@ -12,3 +12,4 @@ I am a Data Analyst and Full Stack Developer student.
 ## Mis notas de lectura:
 
 - [Mindset](./mindset.md)
+- [Read 06](./read06.md)
