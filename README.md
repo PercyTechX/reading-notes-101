@@ -1,6 +1,6 @@
-# Jesus Percy Nazario Portilla
+# ¡Hola! Soy Jesus Percy Nazario Portilla
 
-![AVATAR DEV](https://github.com/user-attachments/assets/d72b9e88-9dfe-4624-8cbd-ed0a23e5e185)
+![AVATAR DEV](https://github.com/user-attachments/assets/ca269299-7450-4124-8eda-e321f737f7ba)
 
 I am a Data Analyst and Full Stack Developer student.
 
@@ -13,3 +13,5 @@ I am a Data Analyst and Full Stack Developer student.
 
 - [Mindset](./mindset.md)
 - [Read 06](./read06.md)
+
+
