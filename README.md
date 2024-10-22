@@ -1,8 +1,18 @@
 # ¡Hola! Soy Jesus Percy Nazario Portilla
 
-![AVATAR DEV](https://github.com/user-attachments/assets/ca269299-7450-4124-8eda-e321f737f7ba)
+![BANNER 520x180](https://github.com/user-attachments/assets/bc742475-a919-4e9b-8685-7a9f39fa989f)
 
 I am a Data Analyst and Full Stack Developer student.
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
 
 ## Información de contacto:
 
