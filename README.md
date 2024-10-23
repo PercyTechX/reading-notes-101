@@ -23,5 +23,5 @@ I am a Data Analyst and Full Stack Developer student.
 
 - [Mindset](./mindset.md)
 - [Read 06](./read06.md)
-
+- [Read 07](./read07.md)
 
