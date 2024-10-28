@@ -23,13 +23,13 @@ Cada tipo representa datos diferentes. por ejemplo:
 
 3. ¿Cuáles son los diferentes tipos de operadores en JavaScript y cómo se utilizan los operadores aritméticos para realizar cálculos?
 
-* Aritméticos: para sumar, restar, multiplicar y dividir (por ejemplo, +, -, *, /).
-  De asignación: para establecer valores en las variables (por ejemplo, =, +=).
-  De comparación: para verificar si valores son iguales, mayores, menores, etc. (==, ===, !=, <, >).
-  Lógicos: para combinar condiciones (como && para "y", || para "o").
+* **Aritméticos:** para sumar, restar, multiplicar y dividir (por ejemplo, +, -, *, /).</br>
+  **De asignación:** para establecer valores en las variables (por ejemplo, =, +=).</br>
+  **De comparación:** para verificar si valores son iguales, mayores, menores, etc. (==, ===, !=, <, >).</br>
+  **Lógicos:** para combinar condiciones (como && para "y", || para "o").
 
 4. ¿Cómo se declara una variable en JavaScript y cuáles son las diferencias entre var, let y const en cuanto a su alcance y mutabilidad?
 
-* Declaración de variables:  var tiene un alcance de función, lo que significa que solo vive dentro de la función donde se declara.
-  let y const tienen un alcance de bloque o sea existen solo dentro de las llaves { } donde se declaran.
-  const es inmutable (su valor no se puede cambiar) mientras que let y var si permiten modificar su valor después de la declaración.
+* **Declaración de variables:**  var tiene un alcance de función, lo que significa que solo vive dentro de la función donde se declara.</br>
+  **let y const** tienen un alcance de bloque o sea existen solo dentro de las llaves { } donde se declaran.</br>
+  const es inmutable (su valor no se puede cambiar) mientras que let y var si permiten modificar su valor después de la declaración.</br>
