@@ -21,7 +21,9 @@ I am a Data Analyst and Full Stack Developer student.
 
 ## Mis notas de lectura:
 
-- [Mindset](./mindset.md)
-- [Read 06](./read06.md)
-- [Read 07](./read07.md)
+| Carpeta | Enlace |
+| --- | --- |
+| Code 101 | [101](./101) |
+| Code 201 | [201](./201) |
+
 
