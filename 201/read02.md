@@ -26,7 +26,7 @@ HTML5 estructura el contenido web con etiquetas semánticas, mientras CSS estili
 
 
 ## Fuentes 📚
-1. [Como funciona la web](https://developer.mozilla.org/es/docs/Web/HTML/Element)
+1. [Semantica HTML](https://developer.mozilla.org/es/docs/Web/HTML/Element)
 2. [Uso de MEDIA QUERY](https://developer.mozilla.org/es/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 3. [Unidades de medida](https://www.tutorialspoint.com/css/css_measurement_units.htm)
 
