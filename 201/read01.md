@@ -1,5 +1,9 @@
 # Introducción a la Web Moderna 💻
 
+Reconocer los procesos que existen detras de cada solicitud que hace el usuario, ayuda a dar una vision general asi mismo a dar diagnosticos mas certero, cuando falle un proceso, o en su defecto ayudar a mejor la calidad de un proceso
+
+---
+
 1. ¿Qué roles desempeñan los clientes y los servidores en el funcionamiento de la web?
 
 * Los clientes solicitan recursos y servicios mientras que los servidores los proporcionan.
@@ -24,3 +28,7 @@
 ## Fuentes 📚
 1. [Como funciona la web](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 2. [Que es un IDE](https://aws.amazon.com/es/what-is/ide/)
+
+## Cosas de las que quiero saber más 🤔
+
+* ¿Como funciona la seguridad cuando uno hace un pedido al servidor?
